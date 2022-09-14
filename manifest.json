@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "CSS Element Outline",
+    "version": "1.0.0",
+    "description": "Show border for each element in CSS on your browser!",
+    "author": "YO22-2",
+    "icons" : {
+        "128" : "icon.png"
+    },
+
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Click me to show/hide border :3"
+    },
+
+    "permissions" : [
+        "tabs"
+    ]
+}
